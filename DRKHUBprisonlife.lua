@@ -1583,14 +1583,14 @@ pcall(function()if game.PlaceId == 155615604 then
   GuiSection:NewButton("Discord Invite", "copies the discord invite link", function()
         print("Clicked")
   
-  setclipboard("https://discord.gg/9rMZvSPAQv")
+  setclipboard("https://discord.com/invite/JJH9MGxn2v")
    print("Ready")
     end)
   
   GuiSection:NewButton("Youtube Channel (Subscribe!)", "", function()
         print("Clicked")
   
-  setclipboard("https://m.youtube.com/channel/UCvXEiClhdiICCgSVzkEIT3A")
+  setclipboard("https://youtube.com/@lucas_777.-?si=qgk9tAfeoVGSG6AP")
         print("Ready")
     end)
   
