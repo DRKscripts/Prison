@@ -1,7 +1,7 @@
 pcall(function()if game.PlaceId == 155615604 then
     game.StarterGui:SetCore("SendNotification", {
     Title = "Notification";
-    Text = "Credits to DRKscripts"; -- what the text says (ofc)
+    Text = "DRKscripts on top"; -- what the text says (ofc)
     Duration = 10;
   })
   local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/Riotscripter/RiotExploits/main/Kavo%20ui%20lib"))()
