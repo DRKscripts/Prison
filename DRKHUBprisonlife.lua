@@ -5,7 +5,7 @@ pcall(function()if game.PlaceId == 155615604 then
     Duration = 10;
   })
   local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/Riotscripter/RiotExploits/main/Kavo%20ui%20lib"))()
-  local Window = Library.CreateLib("DRK HUB", "Sentinel")
+  local Window = Library.CreateLib("DRK Hub - Prison life", "Sentinel")
   
         -- Auto kill all 
         local Main = Window:NewTab("Main")
